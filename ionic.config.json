@@ -1,0 +1,7 @@
+{
+  "name": "hackathon-inter-univ-2022",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
